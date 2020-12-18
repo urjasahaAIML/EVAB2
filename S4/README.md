@@ -14,4 +14,4 @@ This is a MNIST (28X28X1 image) digit recognition network with:
 - Batch Normalization in every layer to capture non-dominant features
 - 10% Dropout
 - Reduce learning rate after 10 epochs to reduce oscillation of weights
-- Please follw the .pybb notebook for details of code 
+- Please follw the .pybb notebook (https://github.com/tapasML/EVAB2/blob/main/S4/Assignment_Session_4_Arch.ipynb)  for details of code 
