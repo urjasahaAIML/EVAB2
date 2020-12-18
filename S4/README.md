@@ -18,8 +18,8 @@ This is a MNIST (28X28X1 image) digit recognition network with:
 
 ## Details of the Model
 
-Started with 10 channels and max channels reached is 30 (parameter restriction)
-Padding in initial blocks
-Batch Normalization in every layer to capture non-dominant features
-10% Dropout
-Reduce learning rate after 10 epochs to reduce oscillation of weights
+- Started with 10 channels and max channels reached is 30 (parameter restriction)
+- Padding in initial blocks
+- Batch Normalization in every layer to capture non-dominant features
+- 10% Dropout
+- Reduce learning rate after 10 epochs to reduce oscillation of weights
